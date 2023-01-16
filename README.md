@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Carl-William Gillberg
-- 👀 Interested in web design and development, programming and user experience
-- 🌱 Working on my bachelor's degree at Karlstad University and projects in my free time
+- 👀 Areas of interest: Web Development, UI Design and Accessibility!
+- 🌱 Working on finishing the @Odin Project JavaScript Full Stack curriculum
 - 📫 How to reach me:
-     @: cwgillberg@gmail.com
+     @:carlwgillberg@gmail.com
+
+Check out my projects! </br>
+<a href="https://cwgillberg.github.io/etch-a-sketch/">Etch-A-Sketch</a>
+</br>
+<a href="https://cwgillberg.github.io/rps/">Rock Paper Scissors</a>
