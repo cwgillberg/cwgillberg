@@ -4,7 +4,14 @@
 - 📫 How to reach me:
      @:carlwgillberg@gmail.com
 
+<style>
+     a {
+          color: white;
+     }
+</style>
+
 Check out my projects! </br>
-<a href="https://cwgillberg.github.io/etch-a-sketch/">Etch-A-Sketch</a>
+<a href="https://cwgillberg.github.io/etch-a-sketch/" target="blank">Etch-A-Sketch</a>
 </br>
-<a href="https://cwgillberg.github.io/rps/">Rock Paper Scissors</a>
+<a href="https://cwgillberg.github.io/rps/" target="blank">Rock Paper Scissors</a>
+<a href="https://cwgillberg.github.io/sign-up-form/" target="blank">Sign-Up Form</a>
